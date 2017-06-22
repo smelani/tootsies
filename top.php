@@ -19,7 +19,7 @@
         <!--Google Fonts-->
         <link href="https://fonts.googleapis.com/css?family=Dancing+Script|Quicksand:300,400|La+Belle+Aurore" rel="stylesheet">
         
-        <!--JQuery-->
+        <!--jQuery-->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
         
         <!-- bx Slider CSS -->
@@ -33,10 +33,10 @@
     
     </head>
     <body>
-        <!-- Toggle Nav JS -->
+        <!-- Toggle Nav js -->
         <script src="js/toggle.js"></script>
         
-        <!--bx Slider JS-->
+        <!--bx Slider js-->
         <script src="js/jquery.bxslider.js"></script>
     
         <script>
